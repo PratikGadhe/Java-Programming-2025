@@ -13,7 +13,8 @@ public class matrix {
         for (int i = 0; i < 2; i++) {
             for (int j = 0; j < 2; j++) {
                 System.out.println(matrix[i][j]);
-            }System.out.println("\n");
-        }
+            }System.out.println("\t");
+        }System.out.println("\n");
+
     }
 }
